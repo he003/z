@@ -9,3 +9,13 @@ Water meter AFE ZHQ7755.
 - 数据手册等
 
 不包含芯片本身设计资料。
+
+## git CLI
+
+加强安全性，原来的密码登录取消，需要申请`TOKEN`。这里存储一个3个月有效的`TOKEN`:
+
+```
+
+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
+
+```

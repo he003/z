@@ -1,0 +1,9 @@
+#! /usr/bin/env sh
+
+pandoc $1 -s  \
+    -c css/style.min.css \
+    -c css/zh-hans.css \
+    --katex="https://cdn.jsdelivr.net/npm/katex@0.16.4/dist/" \
+    -o index.html
+
+

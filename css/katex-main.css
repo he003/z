@@ -149,3 +149,11 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1.6em;
   vertical-align: middle;
 }
+
+.div {
+    color: #969696;
+}
+
+.span {
+    color: #fa1a1a;
+}
